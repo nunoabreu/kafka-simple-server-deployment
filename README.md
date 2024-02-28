@@ -1,4 +1,4 @@
-# kafka-simple-server-deployment
+# Kafka Simple Server Deployment
 ## How to install on your local machine?
 ### Install Docker for Desktop and enable Kubernetes
 If you want to install in your local machine, you can do it by using __Docker for Desktop__ and enable __Kubernetes__.
