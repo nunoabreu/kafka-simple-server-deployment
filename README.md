@@ -36,3 +36,6 @@ zookeeper-svc     ClusterIP      10.99.58.0       <none>        2181/TCP        
 ```
 
 At this point you should have a kafka server available on your local machine and accessible on **127.0.0.1:9092**
+
+## Credits
+This work was based on this article: [A Practical Guide to Apache Kafka with Node.js: Code Examples](https://medium.com/@ketanpradhan/a-practical-guide-to-apache-kafka-with-node-js-code-examples-329cc65be502)
